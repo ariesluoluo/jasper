@@ -1,0 +1,19 @@
+{
+    "userinfo": {
+        "host": "smtp.qq.com",
+        "port": 465,
+        "secure": true,
+        "auth": {
+            "user": "1767611912@qq.com",
+            "pass": "luo19920302"
+        }
+    },
+
+    "sendmailinfo": {
+        "from":"1767611912@qq.com",
+        "to": "m18762671598_2@163.com",
+        "subject": "hello",
+        "text": "__________---------"
+    }
+
+}
